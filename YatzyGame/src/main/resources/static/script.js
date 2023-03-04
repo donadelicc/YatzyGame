@@ -1,20 +1,33 @@
 
-// Funksjon som kalles når knappen trykkes
-function trillTerninger(){
-    // Henter terningene ved å kalle Java-metoden
-    var terninger = Java.trillTerninger();
 
-    // Oppdaterer terningene på siden
-    var terningDiv = document.getElementById("terningDiv");
-    // Sletter alt som er i terningDiv
-    terningDiv.innerHTML = "";
+var diceImages = {
+    1: "images/1.png",
+    2: "images/2.png",
+    3: "images/3.png",
+    4: "images/3.png",
+    5: "images/5.png",
+    6: "images/6.png",
+  };
 
-    for(var i = 0; i < terninger.length; i++){
-        var terning = terninger[i];
-        var terningElement = document.createElement("p");
-        terningElement.innerText = "Terning " + (i + 1) + ": " + terning.verdi;
-        terningDiv.appendChild(terningElement);
+
+function displayDiceRolls() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "/trill-terninger");
+    xhr.onreadystatechange = function() {
+    if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+        var diceRollsDiv = document.getElementById("trillTerninger");
+        diceRollsDiv.innerHTML = xhr.responseText;
     }
+    };
+    xhr.send();
+}
 
-    console.log();
+
+ // SPILLBRETTE
+const gridContainer = document.querySelector('.grid-container');
+    
+for (let i = 1; i <= 190; i++) {
+  const gridItem = document.createElement('div');
+  gridItem.classList.add('grid-item');
+  gridContainer.appendChild(gridItem);
 }

@@ -18,6 +18,14 @@ public class TerningTabell {
         }
     }
 
+    public int getAntallTerninger() {
+        return this.terninger.length;
+    }
+
+    public Terning getTerning(int index) {
+        return this.terninger[index];
+    }
+
     public Terning[] getTerninger() {
         return terninger;
     }

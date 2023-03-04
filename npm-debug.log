@@ -1,0 +1,1439 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\YatzyGame\\target\\node\\node.exe',
+1 verbose cli   'C:\\Users\\prebe\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install'
+1 verbose cli ]
+2 info using npm@2.15.12
+3 info using node@v16.14.0
+4 verbose readDependencies loading dependencies from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\package.json
+5 warn package.json yatzygame@1.0.0 No description
+6 warn package.json yatzygame@1.0.0 No repository field.
+7 warn package.json yatzygame@1.0.0 No README data
+8 verbose install where, deps [
+8 verbose install   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame',
+8 verbose install   [ 'java', 'npm-run-all' ]
+8 verbose install ]
+9 verbose install where, peers [
+9 verbose install   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame',
+9 verbose install   []
+9 verbose install ]
+10 verbose installManyTop reading for lifecycle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\package.json
+11 info preinstall yatzygame@1.0.0
+12 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\ansi-styles\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\async\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\available-typed-arrays\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\balanced-match\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\brace-expansion\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\call-bind\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\chalk\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-convert\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-name\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\concat-map\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\cross-spawn\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\define-properties\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\error-ex\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-abstract\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-set-tostringtag\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-to-primitive\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\escape-string-regexp\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\find-java-home\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\for-each\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\fs.realpath\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function-bind\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function.prototype.name\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\functions-have-names\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-intrinsic\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-symbol-description\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\glob\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\globalthis\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\gopd\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\graceful-fs\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-bigints\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-flag\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-property-descriptors\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-proto\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-symbols\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-tostringtag\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\hosted-git-info\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inflight\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inherits\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\internal-slot\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-array-buffer\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-arrayish\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-bigint\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-boolean-object\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-callable\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-core-module\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-date-object\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-negative-zero\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-number-object\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-regex\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-shared-array-buffer\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-string\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-symbol\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-typed-array\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-weakref\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\isexe\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\java\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\json-parse-better-errors\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\load-json-file\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\lodash\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\memorystream\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\minimatch\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nan\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nice-try\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\normalize-package-data\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\npm-run-all\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-inspect\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-keys\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object.assign\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\once\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\parse-json\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-is-absolute\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-key\package.json
+85 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-parse\package.json
+86 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-type\package.json
+87 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pidtree\package.json
+88 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pify\package.json
+89 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\read-pkg\package.json
+90 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\regexp.prototype.flags\package.json
+91 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\resolve\package.json
+92 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\safe-regex-test\package.json
+93 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\semver\package.json
+94 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-command\package.json
+95 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-regex\package.json
+96 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shell-quote\package.json
+97 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\side-channel\package.json
+98 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-correct\package.json
+99 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-exceptions\package.json
+100 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-expression-parse\package.json
+101 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-license-ids\package.json
+102 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.padend\package.json
+103 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimend\package.json
+104 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimstart\package.json
+105 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\strip-bom\package.json
+106 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-color\package.json
+107 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-preserve-symlinks-flag\package.json
+108 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\typed-array-length\package.json
+109 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\unbox-primitive\package.json
+110 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\validate-npm-package-license\package.json
+111 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which\package.json
+112 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-boxed-primitive\package.json
+113 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-typed-array\package.json
+114 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\winreg\package.json
+115 verbose installManyTop reading scoped package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\wrappy\package.json
+116 info package.json memorystream@0.3.1 No license field.
+117 verbose readDependencies loading dependencies from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\package.json
+118 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\ansi-styles\package.json
+119 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\async\package.json
+120 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\available-typed-arrays\package.json
+121 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\balanced-match\package.json
+122 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\brace-expansion\package.json
+123 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\call-bind\package.json
+124 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\chalk\package.json
+125 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-convert\package.json
+126 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-name\package.json
+127 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\concat-map\package.json
+128 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\cross-spawn\package.json
+129 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\define-properties\package.json
+130 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\error-ex\package.json
+131 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-abstract\package.json
+132 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-set-tostringtag\package.json
+133 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-to-primitive\package.json
+134 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\escape-string-regexp\package.json
+135 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\find-java-home\package.json
+136 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\for-each\package.json
+137 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\fs.realpath\package.json
+138 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function-bind\package.json
+139 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function.prototype.name\package.json
+140 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\functions-have-names\package.json
+141 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-intrinsic\package.json
+142 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-symbol-description\package.json
+143 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\glob\package.json
+144 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\globalthis\package.json
+145 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\gopd\package.json
+146 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\graceful-fs\package.json
+147 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has\package.json
+148 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-bigints\package.json
+149 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-flag\package.json
+150 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-property-descriptors\package.json
+151 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-proto\package.json
+152 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-symbols\package.json
+153 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-tostringtag\package.json
+154 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\hosted-git-info\package.json
+155 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inflight\package.json
+156 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inherits\package.json
+157 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\internal-slot\package.json
+158 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-array-buffer\package.json
+159 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-arrayish\package.json
+160 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-bigint\package.json
+161 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-boolean-object\package.json
+162 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-callable\package.json
+163 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-core-module\package.json
+164 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-date-object\package.json
+165 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-negative-zero\package.json
+166 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-number-object\package.json
+167 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-regex\package.json
+168 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-shared-array-buffer\package.json
+169 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-string\package.json
+170 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-symbol\package.json
+171 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-typed-array\package.json
+172 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-weakref\package.json
+173 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\isexe\package.json
+174 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\java\package.json
+175 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\json-parse-better-errors\package.json
+176 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\load-json-file\package.json
+177 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\lodash\package.json
+178 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\memorystream\package.json
+179 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\minimatch\package.json
+180 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nan\package.json
+181 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nice-try\package.json
+182 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\normalize-package-data\package.json
+183 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\npm-run-all\package.json
+184 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-inspect\package.json
+185 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-keys\package.json
+186 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object.assign\package.json
+187 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\once\package.json
+188 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\parse-json\package.json
+189 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-is-absolute\package.json
+190 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-key\package.json
+191 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-parse\package.json
+192 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-type\package.json
+193 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pidtree\package.json
+194 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pify\package.json
+195 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\read-pkg\package.json
+196 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\regexp.prototype.flags\package.json
+197 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\resolve\package.json
+198 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\safe-regex-test\package.json
+199 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\semver\package.json
+200 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-command\package.json
+201 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-regex\package.json
+202 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shell-quote\package.json
+203 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\side-channel\package.json
+204 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-correct\package.json
+205 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-exceptions\package.json
+206 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-expression-parse\package.json
+207 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-license-ids\package.json
+208 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.padend\package.json
+209 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimend\package.json
+210 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimstart\package.json
+211 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\strip-bom\package.json
+212 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-color\package.json
+213 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-preserve-symlinks-flag\package.json
+214 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\typed-array-length\package.json
+215 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\unbox-primitive\package.json
+216 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\validate-npm-package-license\package.json
+217 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which\package.json
+218 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-boxed-primitive\package.json
+219 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-typed-array\package.json
+220 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\winreg\package.json
+221 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\wrappy\package.json
+222 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\npm-run-all\package.json
+223 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\npm-run-all.cmd\package.json
+224 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\npm-run-all.ps1\package.json
+225 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\pidtree\package.json
+226 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\pidtree.cmd\package.json
+227 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\pidtree.ps1\package.json
+228 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\resolve\package.json
+229 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\resolve.cmd\package.json
+230 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\resolve.ps1\package.json
+231 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-p\package.json
+232 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-p.cmd\package.json
+233 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-p.ps1\package.json
+234 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-s\package.json
+235 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-s.cmd\package.json
+236 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\run-s.ps1\package.json
+237 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\semver\package.json
+238 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\semver.cmd\package.json
+239 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\semver.ps1\package.json
+240 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\which\package.json
+241 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\which.cmd\package.json
+242 verbose targetResolver reading package data from C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\.bin\which.ps1\package.json
+243 verbose already installed skipping npm-run-all@^4.1.5 C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame
+244 verbose already installed skipping java@^0.12.2 C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame
+245 silly install resolved []
+246 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame
+247 info linkStuff yatzygame@1.0.0
+248 silly linkStuff yatzygame@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt as its parent node_modules
+249 verbose linkBins yatzygame@1.0.0
+250 verbose linkMans yatzygame@1.0.0
+251 verbose rebuildBundles yatzygame@1.0.0
+252 verbose rebuildBundles [
+252 verbose rebuildBundles   '.bin',
+252 verbose rebuildBundles   '.package-lock.json',
+252 verbose rebuildBundles   'ansi-styles',
+252 verbose rebuildBundles   'async',
+252 verbose rebuildBundles   'available-typed-arrays',
+252 verbose rebuildBundles   'balanced-match',
+252 verbose rebuildBundles   'brace-expansion',
+252 verbose rebuildBundles   'call-bind',
+252 verbose rebuildBundles   'chalk',
+252 verbose rebuildBundles   'color-convert',
+252 verbose rebuildBundles   'color-name',
+252 verbose rebuildBundles   'concat-map',
+252 verbose rebuildBundles   'cross-spawn',
+252 verbose rebuildBundles   'define-properties',
+252 verbose rebuildBundles   'error-ex',
+252 verbose rebuildBundles   'es-abstract',
+252 verbose rebuildBundles   'es-set-tostringtag',
+252 verbose rebuildBundles   'es-to-primitive',
+252 verbose rebuildBundles   'escape-string-regexp',
+252 verbose rebuildBundles   'find-java-home',
+252 verbose rebuildBundles   'for-each',
+252 verbose rebuildBundles   'fs.realpath',
+252 verbose rebuildBundles   'function-bind',
+252 verbose rebuildBundles   'function.prototype.name',
+252 verbose rebuildBundles   'functions-have-names',
+252 verbose rebuildBundles   'get-intrinsic',
+252 verbose rebuildBundles   'get-symbol-description',
+252 verbose rebuildBundles   'glob',
+252 verbose rebuildBundles   'globalthis',
+252 verbose rebuildBundles   'gopd',
+252 verbose rebuildBundles   'graceful-fs',
+252 verbose rebuildBundles   'has',
+252 verbose rebuildBundles   'has-bigints',
+252 verbose rebuildBundles   'has-flag',
+252 verbose rebuildBundles   'has-property-descriptors',
+252 verbose rebuildBundles   'has-proto',
+252 verbose rebuildBundles   'has-symbols',
+252 verbose rebuildBundles   'has-tostringtag',
+252 verbose rebuildBundles   'hosted-git-info',
+252 verbose rebuildBundles   'inflight',
+252 verbose rebuildBundles   'inherits',
+252 verbose rebuildBundles   'internal-slot',
+252 verbose rebuildBundles   'is-array-buffer',
+252 verbose rebuildBundles   'is-arrayish',
+252 verbose rebuildBundles   'is-bigint',
+252 verbose rebuildBundles   'is-boolean-object',
+252 verbose rebuildBundles   'is-callable',
+252 verbose rebuildBundles   'is-core-module',
+252 verbose rebuildBundles   'is-date-object',
+252 verbose rebuildBundles   'is-negative-zero',
+252 verbose rebuildBundles   'is-number-object',
+252 verbose rebuildBundles   'is-regex',
+252 verbose rebuildBundles   'is-shared-array-buffer',
+252 verbose rebuildBundles   'is-string',
+252 verbose rebuildBundles   'is-symbol',
+252 verbose rebuildBundles   'is-typed-array',
+252 verbose rebuildBundles   'is-weakref',
+252 verbose rebuildBundles   'isexe',
+252 verbose rebuildBundles   'java',
+252 verbose rebuildBundles   'json-parse-better-errors',
+252 verbose rebuildBundles   'load-json-file',
+252 verbose rebuildBundles   'lodash',
+252 verbose rebuildBundles   'memorystream',
+252 verbose rebuildBundles   'minimatch',
+252 verbose rebuildBundles   'nan',
+252 verbose rebuildBundles   'nice-try',
+252 verbose rebuildBundles   'normalize-package-data',
+252 verbose rebuildBundles   'npm-run-all',
+252 verbose rebuildBundles   'object-inspect',
+252 verbose rebuildBundles   'object-keys',
+252 verbose rebuildBundles   'object.assign',
+252 verbose rebuildBundles   'once',
+252 verbose rebuildBundles   'parse-json',
+252 verbose rebuildBundles   'path-is-absolute',
+252 verbose rebuildBundles   'path-key',
+252 verbose rebuildBundles   'path-parse',
+252 verbose rebuildBundles   'path-type',
+252 verbose rebuildBundles   'pidtree',
+252 verbose rebuildBundles   'pify',
+252 verbose rebuildBundles   'read-pkg',
+252 verbose rebuildBundles   'regexp.prototype.flags',
+252 verbose rebuildBundles   'resolve',
+252 verbose rebuildBundles   'safe-regex-test',
+252 verbose rebuildBundles   'semver',
+252 verbose rebuildBundles   'shebang-command',
+252 verbose rebuildBundles   'shebang-regex',
+252 verbose rebuildBundles   'shell-quote',
+252 verbose rebuildBundles   'side-channel',
+252 verbose rebuildBundles   'spdx-correct',
+252 verbose rebuildBundles   'spdx-exceptions',
+252 verbose rebuildBundles   'spdx-expression-parse',
+252 verbose rebuildBundles   'spdx-license-ids',
+252 verbose rebuildBundles   'string.prototype.padend',
+252 verbose rebuildBundles   'string.prototype.trimend',
+252 verbose rebuildBundles   'string.prototype.trimstart',
+252 verbose rebuildBundles   'strip-bom',
+252 verbose rebuildBundles   'supports-color',
+252 verbose rebuildBundles   'supports-preserve-symlinks-flag',
+252 verbose rebuildBundles   'typed-array-length',
+252 verbose rebuildBundles   'unbox-primitive',
+252 verbose rebuildBundles   ... 6 more items
+252 verbose rebuildBundles ]
+253 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\ansi-styles
+254 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\ansi-styles
+255 info preinstall ansi-styles@3.2.1
+256 info linkStuff ansi-styles@3.2.1
+257 silly linkStuff ansi-styles@3.2.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+258 verbose linkBins ansi-styles@3.2.1
+259 verbose linkMans ansi-styles@3.2.1
+260 verbose rebuildBundles ansi-styles@3.2.1
+261 info install ansi-styles@3.2.1
+262 info postinstall ansi-styles@3.2.1
+263 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\async
+264 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\async
+265 info preinstall async@2.6.1
+266 info linkStuff async@2.6.1
+267 silly linkStuff async@2.6.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+268 verbose linkBins async@2.6.1
+269 verbose linkMans async@2.6.1
+270 verbose rebuildBundles async@2.6.1
+271 info install async@2.6.1
+272 info postinstall async@2.6.1
+273 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\available-typed-arrays
+274 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\available-typed-arrays
+275 info preinstall available-typed-arrays@1.0.5
+276 info linkStuff available-typed-arrays@1.0.5
+277 silly linkStuff available-typed-arrays@1.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+278 verbose linkBins available-typed-arrays@1.0.5
+279 verbose linkMans available-typed-arrays@1.0.5
+280 verbose rebuildBundles available-typed-arrays@1.0.5
+281 info install available-typed-arrays@1.0.5
+282 info postinstall available-typed-arrays@1.0.5
+283 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\balanced-match
+284 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\balanced-match
+285 info preinstall balanced-match@1.0.2
+286 info linkStuff balanced-match@1.0.2
+287 silly linkStuff balanced-match@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+288 verbose linkBins balanced-match@1.0.2
+289 verbose linkMans balanced-match@1.0.2
+290 verbose rebuildBundles balanced-match@1.0.2
+291 info install balanced-match@1.0.2
+292 info postinstall balanced-match@1.0.2
+293 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\brace-expansion
+294 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\brace-expansion
+295 info preinstall brace-expansion@1.1.11
+296 info linkStuff brace-expansion@1.1.11
+297 silly linkStuff brace-expansion@1.1.11 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+298 verbose linkBins brace-expansion@1.1.11
+299 verbose linkMans brace-expansion@1.1.11
+300 verbose rebuildBundles brace-expansion@1.1.11
+301 info install brace-expansion@1.1.11
+302 info postinstall brace-expansion@1.1.11
+303 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\call-bind
+304 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\call-bind
+305 info preinstall call-bind@1.0.2
+306 info linkStuff call-bind@1.0.2
+307 silly linkStuff call-bind@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+308 verbose linkBins call-bind@1.0.2
+309 verbose linkMans call-bind@1.0.2
+310 verbose rebuildBundles call-bind@1.0.2
+311 info install call-bind@1.0.2
+312 info postinstall call-bind@1.0.2
+313 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\chalk
+314 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\chalk
+315 info preinstall chalk@2.4.2
+316 info linkStuff chalk@2.4.2
+317 silly linkStuff chalk@2.4.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+318 verbose linkBins chalk@2.4.2
+319 verbose linkMans chalk@2.4.2
+320 verbose rebuildBundles chalk@2.4.2
+321 info install chalk@2.4.2
+322 info postinstall chalk@2.4.2
+323 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-convert
+324 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-convert
+325 info preinstall color-convert@1.9.3
+326 info linkStuff color-convert@1.9.3
+327 silly linkStuff color-convert@1.9.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+328 verbose linkBins color-convert@1.9.3
+329 verbose linkMans color-convert@1.9.3
+330 verbose rebuildBundles color-convert@1.9.3
+331 info install color-convert@1.9.3
+332 info postinstall color-convert@1.9.3
+333 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-name
+334 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\color-name
+335 info preinstall color-name@1.1.3
+336 info linkStuff color-name@1.1.3
+337 silly linkStuff color-name@1.1.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+338 verbose linkBins color-name@1.1.3
+339 verbose linkMans color-name@1.1.3
+340 verbose rebuildBundles color-name@1.1.3
+341 info install color-name@1.1.3
+342 info postinstall color-name@1.1.3
+343 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\concat-map
+344 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\concat-map
+345 info preinstall concat-map@0.0.1
+346 info linkStuff concat-map@0.0.1
+347 silly linkStuff concat-map@0.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+348 verbose linkBins concat-map@0.0.1
+349 verbose linkMans concat-map@0.0.1
+350 verbose rebuildBundles concat-map@0.0.1
+351 info install concat-map@0.0.1
+352 info postinstall concat-map@0.0.1
+353 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\cross-spawn
+354 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\cross-spawn
+355 info preinstall cross-spawn@6.0.5
+356 info linkStuff cross-spawn@6.0.5
+357 silly linkStuff cross-spawn@6.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+358 verbose linkBins cross-spawn@6.0.5
+359 verbose linkMans cross-spawn@6.0.5
+360 verbose rebuildBundles cross-spawn@6.0.5
+361 verbose rebuildBundles [ '.bin', 'which' ]
+362 info install cross-spawn@6.0.5
+363 info postinstall cross-spawn@6.0.5
+364 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\define-properties
+365 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\define-properties
+366 info preinstall define-properties@1.2.0
+367 info linkStuff define-properties@1.2.0
+368 silly linkStuff define-properties@1.2.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+369 verbose linkBins define-properties@1.2.0
+370 verbose linkMans define-properties@1.2.0
+371 verbose rebuildBundles define-properties@1.2.0
+372 info install define-properties@1.2.0
+373 info postinstall define-properties@1.2.0
+374 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\error-ex
+375 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\error-ex
+376 info preinstall error-ex@1.3.2
+377 info linkStuff error-ex@1.3.2
+378 silly linkStuff error-ex@1.3.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+379 verbose linkBins error-ex@1.3.2
+380 verbose linkMans error-ex@1.3.2
+381 verbose rebuildBundles error-ex@1.3.2
+382 info install error-ex@1.3.2
+383 info postinstall error-ex@1.3.2
+384 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-abstract
+385 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-abstract
+386 info preinstall es-abstract@1.21.1
+387 info linkStuff es-abstract@1.21.1
+388 silly linkStuff es-abstract@1.21.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+389 verbose linkBins es-abstract@1.21.1
+390 verbose linkMans es-abstract@1.21.1
+391 verbose rebuildBundles es-abstract@1.21.1
+392 info install es-abstract@1.21.1
+393 info postinstall es-abstract@1.21.1
+394 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-set-tostringtag
+395 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-set-tostringtag
+396 info preinstall es-set-tostringtag@2.0.1
+397 info linkStuff es-set-tostringtag@2.0.1
+398 silly linkStuff es-set-tostringtag@2.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+399 verbose linkBins es-set-tostringtag@2.0.1
+400 verbose linkMans es-set-tostringtag@2.0.1
+401 verbose rebuildBundles es-set-tostringtag@2.0.1
+402 info install es-set-tostringtag@2.0.1
+403 info postinstall es-set-tostringtag@2.0.1
+404 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-to-primitive
+405 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\es-to-primitive
+406 info preinstall es-to-primitive@1.2.1
+407 info linkStuff es-to-primitive@1.2.1
+408 silly linkStuff es-to-primitive@1.2.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+409 verbose linkBins es-to-primitive@1.2.1
+410 verbose linkMans es-to-primitive@1.2.1
+411 verbose rebuildBundles es-to-primitive@1.2.1
+412 info install es-to-primitive@1.2.1
+413 info postinstall es-to-primitive@1.2.1
+414 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\escape-string-regexp
+415 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\escape-string-regexp
+416 info preinstall escape-string-regexp@1.0.5
+417 info linkStuff escape-string-regexp@1.0.5
+418 silly linkStuff escape-string-regexp@1.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+419 verbose linkBins escape-string-regexp@1.0.5
+420 verbose linkMans escape-string-regexp@1.0.5
+421 verbose rebuildBundles escape-string-regexp@1.0.5
+422 info install escape-string-regexp@1.0.5
+423 info postinstall escape-string-regexp@1.0.5
+424 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\find-java-home
+425 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\find-java-home
+426 info preinstall find-java-home@1.1.0
+427 info linkStuff find-java-home@1.1.0
+428 silly linkStuff find-java-home@1.1.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+429 verbose linkBins find-java-home@1.1.0
+430 verbose linkMans find-java-home@1.1.0
+431 verbose rebuildBundles find-java-home@1.1.0
+432 info install find-java-home@1.1.0
+433 info postinstall find-java-home@1.1.0
+434 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\for-each
+435 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\for-each
+436 info preinstall for-each@0.3.3
+437 info linkStuff for-each@0.3.3
+438 silly linkStuff for-each@0.3.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+439 verbose linkBins for-each@0.3.3
+440 verbose linkMans for-each@0.3.3
+441 verbose rebuildBundles for-each@0.3.3
+442 info install for-each@0.3.3
+443 info postinstall for-each@0.3.3
+444 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\fs.realpath
+445 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\fs.realpath
+446 info preinstall fs.realpath@1.0.0
+447 info linkStuff fs.realpath@1.0.0
+448 silly linkStuff fs.realpath@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+449 verbose linkBins fs.realpath@1.0.0
+450 verbose linkMans fs.realpath@1.0.0
+451 verbose rebuildBundles fs.realpath@1.0.0
+452 info install fs.realpath@1.0.0
+453 info postinstall fs.realpath@1.0.0
+454 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function-bind
+455 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function-bind
+456 info preinstall function-bind@1.1.1
+457 info linkStuff function-bind@1.1.1
+458 silly linkStuff function-bind@1.1.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+459 verbose linkBins function-bind@1.1.1
+460 verbose linkMans function-bind@1.1.1
+461 verbose rebuildBundles function-bind@1.1.1
+462 info install function-bind@1.1.1
+463 info postinstall function-bind@1.1.1
+464 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function.prototype.name
+465 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\function.prototype.name
+466 info preinstall function.prototype.name@1.1.5
+467 info linkStuff function.prototype.name@1.1.5
+468 silly linkStuff function.prototype.name@1.1.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+469 verbose linkBins function.prototype.name@1.1.5
+470 verbose linkMans function.prototype.name@1.1.5
+471 verbose rebuildBundles function.prototype.name@1.1.5
+472 info install function.prototype.name@1.1.5
+473 info postinstall function.prototype.name@1.1.5
+474 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\functions-have-names
+475 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\functions-have-names
+476 info preinstall functions-have-names@1.2.3
+477 info linkStuff functions-have-names@1.2.3
+478 silly linkStuff functions-have-names@1.2.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+479 verbose linkBins functions-have-names@1.2.3
+480 verbose linkMans functions-have-names@1.2.3
+481 verbose rebuildBundles functions-have-names@1.2.3
+482 info install functions-have-names@1.2.3
+483 info postinstall functions-have-names@1.2.3
+484 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-intrinsic
+485 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-intrinsic
+486 info preinstall get-intrinsic@1.2.0
+487 info linkStuff get-intrinsic@1.2.0
+488 silly linkStuff get-intrinsic@1.2.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+489 verbose linkBins get-intrinsic@1.2.0
+490 verbose linkMans get-intrinsic@1.2.0
+491 verbose rebuildBundles get-intrinsic@1.2.0
+492 info install get-intrinsic@1.2.0
+493 info postinstall get-intrinsic@1.2.0
+494 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-symbol-description
+495 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\get-symbol-description
+496 info preinstall get-symbol-description@1.0.0
+497 info linkStuff get-symbol-description@1.0.0
+498 silly linkStuff get-symbol-description@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+499 verbose linkBins get-symbol-description@1.0.0
+500 verbose linkMans get-symbol-description@1.0.0
+501 verbose rebuildBundles get-symbol-description@1.0.0
+502 info install get-symbol-description@1.0.0
+503 info postinstall get-symbol-description@1.0.0
+504 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\glob
+505 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\glob
+506 info preinstall glob@7.1.6
+507 info linkStuff glob@7.1.6
+508 silly linkStuff glob@7.1.6 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+509 verbose linkBins glob@7.1.6
+510 verbose linkMans glob@7.1.6
+511 verbose rebuildBundles glob@7.1.6
+512 info install glob@7.1.6
+513 info postinstall glob@7.1.6
+514 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\globalthis
+515 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\globalthis
+516 info preinstall globalthis@1.0.3
+517 info linkStuff globalthis@1.0.3
+518 silly linkStuff globalthis@1.0.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+519 verbose linkBins globalthis@1.0.3
+520 verbose linkMans globalthis@1.0.3
+521 verbose rebuildBundles globalthis@1.0.3
+522 info install globalthis@1.0.3
+523 info postinstall globalthis@1.0.3
+524 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\gopd
+525 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\gopd
+526 info preinstall gopd@1.0.1
+527 info linkStuff gopd@1.0.1
+528 silly linkStuff gopd@1.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+529 verbose linkBins gopd@1.0.1
+530 verbose linkMans gopd@1.0.1
+531 verbose rebuildBundles gopd@1.0.1
+532 info install gopd@1.0.1
+533 info postinstall gopd@1.0.1
+534 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\graceful-fs
+535 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\graceful-fs
+536 info preinstall graceful-fs@4.2.10
+537 info linkStuff graceful-fs@4.2.10
+538 silly linkStuff graceful-fs@4.2.10 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+539 verbose linkBins graceful-fs@4.2.10
+540 verbose linkMans graceful-fs@4.2.10
+541 verbose rebuildBundles graceful-fs@4.2.10
+542 info install graceful-fs@4.2.10
+543 info postinstall graceful-fs@4.2.10
+544 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has
+545 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has
+546 info preinstall has@1.0.3
+547 info linkStuff has@1.0.3
+548 silly linkStuff has@1.0.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+549 verbose linkBins has@1.0.3
+550 verbose linkMans has@1.0.3
+551 verbose rebuildBundles has@1.0.3
+552 info install has@1.0.3
+553 info postinstall has@1.0.3
+554 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-bigints
+555 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-bigints
+556 info preinstall has-bigints@1.0.2
+557 info linkStuff has-bigints@1.0.2
+558 silly linkStuff has-bigints@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+559 verbose linkBins has-bigints@1.0.2
+560 verbose linkMans has-bigints@1.0.2
+561 verbose rebuildBundles has-bigints@1.0.2
+562 info install has-bigints@1.0.2
+563 info postinstall has-bigints@1.0.2
+564 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-flag
+565 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-flag
+566 info preinstall has-flag@3.0.0
+567 info linkStuff has-flag@3.0.0
+568 silly linkStuff has-flag@3.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+569 verbose linkBins has-flag@3.0.0
+570 verbose linkMans has-flag@3.0.0
+571 verbose rebuildBundles has-flag@3.0.0
+572 info install has-flag@3.0.0
+573 info postinstall has-flag@3.0.0
+574 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-property-descriptors
+575 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-property-descriptors
+576 info preinstall has-property-descriptors@1.0.0
+577 info linkStuff has-property-descriptors@1.0.0
+578 silly linkStuff has-property-descriptors@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+579 verbose linkBins has-property-descriptors@1.0.0
+580 verbose linkMans has-property-descriptors@1.0.0
+581 verbose rebuildBundles has-property-descriptors@1.0.0
+582 info install has-property-descriptors@1.0.0
+583 info postinstall has-property-descriptors@1.0.0
+584 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-proto
+585 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-proto
+586 info preinstall has-proto@1.0.1
+587 info linkStuff has-proto@1.0.1
+588 silly linkStuff has-proto@1.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+589 verbose linkBins has-proto@1.0.1
+590 verbose linkMans has-proto@1.0.1
+591 verbose rebuildBundles has-proto@1.0.1
+592 info install has-proto@1.0.1
+593 info postinstall has-proto@1.0.1
+594 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-symbols
+595 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-symbols
+596 info preinstall has-symbols@1.0.3
+597 info linkStuff has-symbols@1.0.3
+598 silly linkStuff has-symbols@1.0.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+599 verbose linkBins has-symbols@1.0.3
+600 verbose linkMans has-symbols@1.0.3
+601 verbose rebuildBundles has-symbols@1.0.3
+602 info install has-symbols@1.0.3
+603 info postinstall has-symbols@1.0.3
+604 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-tostringtag
+605 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\has-tostringtag
+606 info preinstall has-tostringtag@1.0.0
+607 info linkStuff has-tostringtag@1.0.0
+608 silly linkStuff has-tostringtag@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+609 verbose linkBins has-tostringtag@1.0.0
+610 verbose linkMans has-tostringtag@1.0.0
+611 verbose rebuildBundles has-tostringtag@1.0.0
+612 info install has-tostringtag@1.0.0
+613 info postinstall has-tostringtag@1.0.0
+614 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\hosted-git-info
+615 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\hosted-git-info
+616 info preinstall hosted-git-info@2.8.9
+617 info linkStuff hosted-git-info@2.8.9
+618 silly linkStuff hosted-git-info@2.8.9 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+619 verbose linkBins hosted-git-info@2.8.9
+620 verbose linkMans hosted-git-info@2.8.9
+621 verbose rebuildBundles hosted-git-info@2.8.9
+622 info install hosted-git-info@2.8.9
+623 info postinstall hosted-git-info@2.8.9
+624 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inflight
+625 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inflight
+626 info preinstall inflight@1.0.6
+627 info linkStuff inflight@1.0.6
+628 silly linkStuff inflight@1.0.6 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+629 verbose linkBins inflight@1.0.6
+630 verbose linkMans inflight@1.0.6
+631 verbose rebuildBundles inflight@1.0.6
+632 info install inflight@1.0.6
+633 info postinstall inflight@1.0.6
+634 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inherits
+635 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\inherits
+636 info preinstall inherits@2.0.4
+637 info linkStuff inherits@2.0.4
+638 silly linkStuff inherits@2.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+639 verbose linkBins inherits@2.0.4
+640 verbose linkMans inherits@2.0.4
+641 verbose rebuildBundles inherits@2.0.4
+642 info install inherits@2.0.4
+643 info postinstall inherits@2.0.4
+644 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\internal-slot
+645 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\internal-slot
+646 info preinstall internal-slot@1.0.5
+647 info linkStuff internal-slot@1.0.5
+648 silly linkStuff internal-slot@1.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+649 verbose linkBins internal-slot@1.0.5
+650 verbose linkMans internal-slot@1.0.5
+651 verbose rebuildBundles internal-slot@1.0.5
+652 info install internal-slot@1.0.5
+653 info postinstall internal-slot@1.0.5
+654 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-array-buffer
+655 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-array-buffer
+656 info preinstall is-array-buffer@3.0.2
+657 info linkStuff is-array-buffer@3.0.2
+658 silly linkStuff is-array-buffer@3.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+659 verbose linkBins is-array-buffer@3.0.2
+660 verbose linkMans is-array-buffer@3.0.2
+661 verbose rebuildBundles is-array-buffer@3.0.2
+662 info install is-array-buffer@3.0.2
+663 info postinstall is-array-buffer@3.0.2
+664 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-arrayish
+665 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-arrayish
+666 info preinstall is-arrayish@0.2.1
+667 info linkStuff is-arrayish@0.2.1
+668 silly linkStuff is-arrayish@0.2.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+669 verbose linkBins is-arrayish@0.2.1
+670 verbose linkMans is-arrayish@0.2.1
+671 verbose rebuildBundles is-arrayish@0.2.1
+672 info install is-arrayish@0.2.1
+673 info postinstall is-arrayish@0.2.1
+674 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-bigint
+675 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-bigint
+676 info preinstall is-bigint@1.0.4
+677 info linkStuff is-bigint@1.0.4
+678 silly linkStuff is-bigint@1.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+679 verbose linkBins is-bigint@1.0.4
+680 verbose linkMans is-bigint@1.0.4
+681 verbose rebuildBundles is-bigint@1.0.4
+682 info install is-bigint@1.0.4
+683 info postinstall is-bigint@1.0.4
+684 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-boolean-object
+685 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-boolean-object
+686 info preinstall is-boolean-object@1.1.2
+687 info linkStuff is-boolean-object@1.1.2
+688 silly linkStuff is-boolean-object@1.1.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+689 verbose linkBins is-boolean-object@1.1.2
+690 verbose linkMans is-boolean-object@1.1.2
+691 verbose rebuildBundles is-boolean-object@1.1.2
+692 info install is-boolean-object@1.1.2
+693 info postinstall is-boolean-object@1.1.2
+694 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-callable
+695 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-callable
+696 info preinstall is-callable@1.2.7
+697 info linkStuff is-callable@1.2.7
+698 silly linkStuff is-callable@1.2.7 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+699 verbose linkBins is-callable@1.2.7
+700 verbose linkMans is-callable@1.2.7
+701 verbose rebuildBundles is-callable@1.2.7
+702 info install is-callable@1.2.7
+703 info postinstall is-callable@1.2.7
+704 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-core-module
+705 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-core-module
+706 info preinstall is-core-module@2.11.0
+707 info linkStuff is-core-module@2.11.0
+708 silly linkStuff is-core-module@2.11.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+709 verbose linkBins is-core-module@2.11.0
+710 verbose linkMans is-core-module@2.11.0
+711 verbose rebuildBundles is-core-module@2.11.0
+712 info install is-core-module@2.11.0
+713 info postinstall is-core-module@2.11.0
+714 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-date-object
+715 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-date-object
+716 info preinstall is-date-object@1.0.5
+717 info linkStuff is-date-object@1.0.5
+718 silly linkStuff is-date-object@1.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+719 verbose linkBins is-date-object@1.0.5
+720 verbose linkMans is-date-object@1.0.5
+721 verbose rebuildBundles is-date-object@1.0.5
+722 info install is-date-object@1.0.5
+723 info postinstall is-date-object@1.0.5
+724 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-negative-zero
+725 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-negative-zero
+726 info preinstall is-negative-zero@2.0.2
+727 info linkStuff is-negative-zero@2.0.2
+728 silly linkStuff is-negative-zero@2.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+729 verbose linkBins is-negative-zero@2.0.2
+730 verbose linkMans is-negative-zero@2.0.2
+731 verbose rebuildBundles is-negative-zero@2.0.2
+732 info install is-negative-zero@2.0.2
+733 info postinstall is-negative-zero@2.0.2
+734 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-number-object
+735 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-number-object
+736 info preinstall is-number-object@1.0.7
+737 info linkStuff is-number-object@1.0.7
+738 silly linkStuff is-number-object@1.0.7 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+739 verbose linkBins is-number-object@1.0.7
+740 verbose linkMans is-number-object@1.0.7
+741 verbose rebuildBundles is-number-object@1.0.7
+742 info install is-number-object@1.0.7
+743 info postinstall is-number-object@1.0.7
+744 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-regex
+745 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-regex
+746 info preinstall is-regex@1.1.4
+747 info linkStuff is-regex@1.1.4
+748 silly linkStuff is-regex@1.1.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+749 verbose linkBins is-regex@1.1.4
+750 verbose linkMans is-regex@1.1.4
+751 verbose rebuildBundles is-regex@1.1.4
+752 info install is-regex@1.1.4
+753 info postinstall is-regex@1.1.4
+754 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-shared-array-buffer
+755 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-shared-array-buffer
+756 info preinstall is-shared-array-buffer@1.0.2
+757 info linkStuff is-shared-array-buffer@1.0.2
+758 silly linkStuff is-shared-array-buffer@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+759 verbose linkBins is-shared-array-buffer@1.0.2
+760 verbose linkMans is-shared-array-buffer@1.0.2
+761 verbose rebuildBundles is-shared-array-buffer@1.0.2
+762 info install is-shared-array-buffer@1.0.2
+763 info postinstall is-shared-array-buffer@1.0.2
+764 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-string
+765 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-string
+766 info preinstall is-string@1.0.7
+767 info linkStuff is-string@1.0.7
+768 silly linkStuff is-string@1.0.7 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+769 verbose linkBins is-string@1.0.7
+770 verbose linkMans is-string@1.0.7
+771 verbose rebuildBundles is-string@1.0.7
+772 info install is-string@1.0.7
+773 info postinstall is-string@1.0.7
+774 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-symbol
+775 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-symbol
+776 info preinstall is-symbol@1.0.4
+777 info linkStuff is-symbol@1.0.4
+778 silly linkStuff is-symbol@1.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+779 verbose linkBins is-symbol@1.0.4
+780 verbose linkMans is-symbol@1.0.4
+781 verbose rebuildBundles is-symbol@1.0.4
+782 info install is-symbol@1.0.4
+783 info postinstall is-symbol@1.0.4
+784 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-typed-array
+785 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-typed-array
+786 info preinstall is-typed-array@1.1.10
+787 info linkStuff is-typed-array@1.1.10
+788 silly linkStuff is-typed-array@1.1.10 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+789 verbose linkBins is-typed-array@1.1.10
+790 verbose linkMans is-typed-array@1.1.10
+791 verbose rebuildBundles is-typed-array@1.1.10
+792 info install is-typed-array@1.1.10
+793 info postinstall is-typed-array@1.1.10
+794 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-weakref
+795 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\is-weakref
+796 info preinstall is-weakref@1.0.2
+797 info linkStuff is-weakref@1.0.2
+798 silly linkStuff is-weakref@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+799 verbose linkBins is-weakref@1.0.2
+800 verbose linkMans is-weakref@1.0.2
+801 verbose rebuildBundles is-weakref@1.0.2
+802 info install is-weakref@1.0.2
+803 info postinstall is-weakref@1.0.2
+804 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\isexe
+805 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\isexe
+806 info preinstall isexe@2.0.0
+807 info linkStuff isexe@2.0.0
+808 silly linkStuff isexe@2.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+809 verbose linkBins isexe@2.0.0
+810 verbose linkMans isexe@2.0.0
+811 verbose rebuildBundles isexe@2.0.0
+812 info install isexe@2.0.0
+813 info postinstall isexe@2.0.0
+814 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\json-parse-better-errors
+815 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\json-parse-better-errors
+816 info preinstall json-parse-better-errors@1.0.2
+817 info linkStuff json-parse-better-errors@1.0.2
+818 silly linkStuff json-parse-better-errors@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+819 verbose linkBins json-parse-better-errors@1.0.2
+820 verbose linkMans json-parse-better-errors@1.0.2
+821 verbose rebuildBundles json-parse-better-errors@1.0.2
+822 info install json-parse-better-errors@1.0.2
+823 info postinstall json-parse-better-errors@1.0.2
+824 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\load-json-file
+825 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\load-json-file
+826 info preinstall load-json-file@4.0.0
+827 info linkStuff load-json-file@4.0.0
+828 silly linkStuff load-json-file@4.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+829 verbose linkBins load-json-file@4.0.0
+830 verbose linkMans load-json-file@4.0.0
+831 verbose rebuildBundles load-json-file@4.0.0
+832 info install load-json-file@4.0.0
+833 info postinstall load-json-file@4.0.0
+834 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\lodash
+835 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\lodash
+836 info preinstall lodash@4.17.21
+837 info linkStuff lodash@4.17.21
+838 silly linkStuff lodash@4.17.21 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+839 verbose linkBins lodash@4.17.21
+840 verbose linkMans lodash@4.17.21
+841 verbose rebuildBundles lodash@4.17.21
+842 info install lodash@4.17.21
+843 info postinstall lodash@4.17.21
+844 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\memorystream
+845 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\memorystream
+846 info preinstall memorystream@0.3.1
+847 info linkStuff memorystream@0.3.1
+848 silly linkStuff memorystream@0.3.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+849 verbose linkBins memorystream@0.3.1
+850 verbose linkMans memorystream@0.3.1
+851 verbose rebuildBundles memorystream@0.3.1
+852 info install memorystream@0.3.1
+853 info postinstall memorystream@0.3.1
+854 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\minimatch
+855 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\minimatch
+856 info preinstall minimatch@3.1.2
+857 info linkStuff minimatch@3.1.2
+858 silly linkStuff minimatch@3.1.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+859 verbose linkBins minimatch@3.1.2
+860 verbose linkMans minimatch@3.1.2
+861 verbose rebuildBundles minimatch@3.1.2
+862 info install minimatch@3.1.2
+863 info postinstall minimatch@3.1.2
+864 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nan
+865 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nan
+866 info preinstall nan@2.14.1
+867 info linkStuff nan@2.14.1
+868 silly linkStuff nan@2.14.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+869 verbose linkBins nan@2.14.1
+870 verbose linkMans nan@2.14.1
+871 verbose rebuildBundles nan@2.14.1
+872 info install nan@2.14.1
+873 info postinstall nan@2.14.1
+874 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nice-try
+875 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\nice-try
+876 info preinstall nice-try@1.0.5
+877 info linkStuff nice-try@1.0.5
+878 silly linkStuff nice-try@1.0.5 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+879 verbose linkBins nice-try@1.0.5
+880 verbose linkMans nice-try@1.0.5
+881 verbose rebuildBundles nice-try@1.0.5
+882 info install nice-try@1.0.5
+883 info postinstall nice-try@1.0.5
+884 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\normalize-package-data
+885 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\normalize-package-data
+886 info preinstall normalize-package-data@2.5.0
+887 info linkStuff normalize-package-data@2.5.0
+888 silly linkStuff normalize-package-data@2.5.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+889 verbose linkBins normalize-package-data@2.5.0
+890 verbose linkMans normalize-package-data@2.5.0
+891 verbose rebuildBundles normalize-package-data@2.5.0
+892 info install normalize-package-data@2.5.0
+893 info postinstall normalize-package-data@2.5.0
+894 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-inspect
+895 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-inspect
+896 info preinstall object-inspect@1.12.3
+897 info linkStuff object-inspect@1.12.3
+898 silly linkStuff object-inspect@1.12.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+899 verbose linkBins object-inspect@1.12.3
+900 verbose linkMans object-inspect@1.12.3
+901 verbose rebuildBundles object-inspect@1.12.3
+902 info install object-inspect@1.12.3
+903 info postinstall object-inspect@1.12.3
+904 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-keys
+905 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object-keys
+906 info preinstall object-keys@1.1.1
+907 info linkStuff object-keys@1.1.1
+908 silly linkStuff object-keys@1.1.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+909 verbose linkBins object-keys@1.1.1
+910 verbose linkMans object-keys@1.1.1
+911 verbose rebuildBundles object-keys@1.1.1
+912 info install object-keys@1.1.1
+913 info postinstall object-keys@1.1.1
+914 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object.assign
+915 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\object.assign
+916 info preinstall object.assign@4.1.4
+917 info linkStuff object.assign@4.1.4
+918 silly linkStuff object.assign@4.1.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+919 verbose linkBins object.assign@4.1.4
+920 verbose linkMans object.assign@4.1.4
+921 verbose rebuildBundles object.assign@4.1.4
+922 info install object.assign@4.1.4
+923 info postinstall object.assign@4.1.4
+924 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\once
+925 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\once
+926 info preinstall once@1.4.0
+927 info linkStuff once@1.4.0
+928 silly linkStuff once@1.4.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+929 verbose linkBins once@1.4.0
+930 verbose linkMans once@1.4.0
+931 verbose rebuildBundles once@1.4.0
+932 info install once@1.4.0
+933 info postinstall once@1.4.0
+934 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\parse-json
+935 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\parse-json
+936 info preinstall parse-json@4.0.0
+937 info linkStuff parse-json@4.0.0
+938 silly linkStuff parse-json@4.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+939 verbose linkBins parse-json@4.0.0
+940 verbose linkMans parse-json@4.0.0
+941 verbose rebuildBundles parse-json@4.0.0
+942 info install parse-json@4.0.0
+943 info postinstall parse-json@4.0.0
+944 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-is-absolute
+945 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-is-absolute
+946 info preinstall path-is-absolute@1.0.1
+947 info linkStuff path-is-absolute@1.0.1
+948 silly linkStuff path-is-absolute@1.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+949 verbose linkBins path-is-absolute@1.0.1
+950 verbose linkMans path-is-absolute@1.0.1
+951 verbose rebuildBundles path-is-absolute@1.0.1
+952 info install path-is-absolute@1.0.1
+953 info postinstall path-is-absolute@1.0.1
+954 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-key
+955 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-key
+956 info preinstall path-key@2.0.1
+957 info linkStuff path-key@2.0.1
+958 silly linkStuff path-key@2.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+959 verbose linkBins path-key@2.0.1
+960 verbose linkMans path-key@2.0.1
+961 verbose rebuildBundles path-key@2.0.1
+962 info install path-key@2.0.1
+963 info postinstall path-key@2.0.1
+964 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-parse
+965 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-parse
+966 info preinstall path-parse@1.0.7
+967 info linkStuff path-parse@1.0.7
+968 silly linkStuff path-parse@1.0.7 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+969 verbose linkBins path-parse@1.0.7
+970 verbose linkMans path-parse@1.0.7
+971 verbose rebuildBundles path-parse@1.0.7
+972 info install path-parse@1.0.7
+973 info postinstall path-parse@1.0.7
+974 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-type
+975 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\path-type
+976 info preinstall path-type@3.0.0
+977 info linkStuff path-type@3.0.0
+978 silly linkStuff path-type@3.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+979 verbose linkBins path-type@3.0.0
+980 verbose linkMans path-type@3.0.0
+981 verbose rebuildBundles path-type@3.0.0
+982 info install path-type@3.0.0
+983 info postinstall path-type@3.0.0
+984 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pidtree
+985 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pidtree
+986 info preinstall pidtree@0.3.1
+987 info linkStuff pidtree@0.3.1
+988 silly linkStuff pidtree@0.3.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+989 verbose linkBins pidtree@0.3.1
+990 verbose link bins [
+990 verbose link bins   { pidtree: './bin/pidtree.js' },
+990 verbose link bins   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\node_modules\\.bin',
+990 verbose link bins   false
+990 verbose link bins ]
+991 verbose linkMans pidtree@0.3.1
+992 verbose rebuildBundles pidtree@0.3.1
+993 info install pidtree@0.3.1
+994 info postinstall pidtree@0.3.1
+995 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pify
+996 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\pify
+997 info preinstall pify@3.0.0
+998 info linkStuff pify@3.0.0
+999 silly linkStuff pify@3.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1000 verbose linkBins pify@3.0.0
+1001 verbose linkMans pify@3.0.0
+1002 verbose rebuildBundles pify@3.0.0
+1003 info install pify@3.0.0
+1004 info postinstall pify@3.0.0
+1005 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\read-pkg
+1006 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\read-pkg
+1007 info preinstall read-pkg@3.0.0
+1008 info linkStuff read-pkg@3.0.0
+1009 silly linkStuff read-pkg@3.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1010 verbose linkBins read-pkg@3.0.0
+1011 verbose linkMans read-pkg@3.0.0
+1012 verbose rebuildBundles read-pkg@3.0.0
+1013 info install read-pkg@3.0.0
+1014 info postinstall read-pkg@3.0.0
+1015 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\regexp.prototype.flags
+1016 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\regexp.prototype.flags
+1017 info preinstall regexp.prototype.flags@1.4.3
+1018 info linkStuff regexp.prototype.flags@1.4.3
+1019 silly linkStuff regexp.prototype.flags@1.4.3 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1020 verbose linkBins regexp.prototype.flags@1.4.3
+1021 verbose linkMans regexp.prototype.flags@1.4.3
+1022 verbose rebuildBundles regexp.prototype.flags@1.4.3
+1023 info install regexp.prototype.flags@1.4.3
+1024 info postinstall regexp.prototype.flags@1.4.3
+1025 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\resolve
+1026 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\resolve
+1027 info preinstall resolve@1.22.1
+1028 info linkStuff resolve@1.22.1
+1029 silly linkStuff resolve@1.22.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1030 verbose linkBins resolve@1.22.1
+1031 verbose link bins [
+1031 verbose link bins   { resolve: './bin/resolve' },
+1031 verbose link bins   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\node_modules\\.bin',
+1031 verbose link bins   false
+1031 verbose link bins ]
+1032 verbose linkMans resolve@1.22.1
+1033 verbose rebuildBundles resolve@1.22.1
+1034 info install resolve@1.22.1
+1035 info postinstall resolve@1.22.1
+1036 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\safe-regex-test
+1037 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\safe-regex-test
+1038 info preinstall safe-regex-test@1.0.0
+1039 info linkStuff safe-regex-test@1.0.0
+1040 silly linkStuff safe-regex-test@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1041 verbose linkBins safe-regex-test@1.0.0
+1042 verbose linkMans safe-regex-test@1.0.0
+1043 verbose rebuildBundles safe-regex-test@1.0.0
+1044 info install safe-regex-test@1.0.0
+1045 info postinstall safe-regex-test@1.0.0
+1046 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\semver
+1047 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\semver
+1048 info preinstall semver@5.7.1
+1049 info linkStuff semver@5.7.1
+1050 silly linkStuff semver@5.7.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1051 verbose linkBins semver@5.7.1
+1052 verbose link bins [
+1052 verbose link bins   { semver: './bin/semver' },
+1052 verbose link bins   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\node_modules\\.bin',
+1052 verbose link bins   false
+1052 verbose link bins ]
+1053 verbose linkMans semver@5.7.1
+1054 verbose rebuildBundles semver@5.7.1
+1055 info install semver@5.7.1
+1056 info postinstall semver@5.7.1
+1057 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-command
+1058 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-command
+1059 info preinstall shebang-command@1.2.0
+1060 info linkStuff shebang-command@1.2.0
+1061 silly linkStuff shebang-command@1.2.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1062 verbose linkBins shebang-command@1.2.0
+1063 verbose linkMans shebang-command@1.2.0
+1064 verbose rebuildBundles shebang-command@1.2.0
+1065 info install shebang-command@1.2.0
+1066 info postinstall shebang-command@1.2.0
+1067 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-regex
+1068 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shebang-regex
+1069 info preinstall shebang-regex@1.0.0
+1070 info linkStuff shebang-regex@1.0.0
+1071 silly linkStuff shebang-regex@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1072 verbose linkBins shebang-regex@1.0.0
+1073 verbose linkMans shebang-regex@1.0.0
+1074 verbose rebuildBundles shebang-regex@1.0.0
+1075 info install shebang-regex@1.0.0
+1076 info postinstall shebang-regex@1.0.0
+1077 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shell-quote
+1078 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\shell-quote
+1079 info preinstall shell-quote@1.8.0
+1080 info linkStuff shell-quote@1.8.0
+1081 silly linkStuff shell-quote@1.8.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1082 verbose linkBins shell-quote@1.8.0
+1083 verbose linkMans shell-quote@1.8.0
+1084 verbose rebuildBundles shell-quote@1.8.0
+1085 info install shell-quote@1.8.0
+1086 info postinstall shell-quote@1.8.0
+1087 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\side-channel
+1088 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\side-channel
+1089 info preinstall side-channel@1.0.4
+1090 info linkStuff side-channel@1.0.4
+1091 silly linkStuff side-channel@1.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1092 verbose linkBins side-channel@1.0.4
+1093 verbose linkMans side-channel@1.0.4
+1094 verbose rebuildBundles side-channel@1.0.4
+1095 info install side-channel@1.0.4
+1096 info postinstall side-channel@1.0.4
+1097 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-correct
+1098 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-correct
+1099 info preinstall spdx-correct@3.1.1
+1100 info linkStuff spdx-correct@3.1.1
+1101 silly linkStuff spdx-correct@3.1.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1102 verbose linkBins spdx-correct@3.1.1
+1103 verbose linkMans spdx-correct@3.1.1
+1104 verbose rebuildBundles spdx-correct@3.1.1
+1105 info install spdx-correct@3.1.1
+1106 info postinstall spdx-correct@3.1.1
+1107 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-exceptions
+1108 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-exceptions
+1109 info preinstall spdx-exceptions@2.3.0
+1110 info linkStuff spdx-exceptions@2.3.0
+1111 silly linkStuff spdx-exceptions@2.3.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1112 verbose linkBins spdx-exceptions@2.3.0
+1113 verbose linkMans spdx-exceptions@2.3.0
+1114 verbose rebuildBundles spdx-exceptions@2.3.0
+1115 info install spdx-exceptions@2.3.0
+1116 info postinstall spdx-exceptions@2.3.0
+1117 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-expression-parse
+1118 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-expression-parse
+1119 info preinstall spdx-expression-parse@3.0.1
+1120 info linkStuff spdx-expression-parse@3.0.1
+1121 silly linkStuff spdx-expression-parse@3.0.1 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1122 verbose linkBins spdx-expression-parse@3.0.1
+1123 verbose linkMans spdx-expression-parse@3.0.1
+1124 verbose rebuildBundles spdx-expression-parse@3.0.1
+1125 info install spdx-expression-parse@3.0.1
+1126 info postinstall spdx-expression-parse@3.0.1
+1127 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-license-ids
+1128 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\spdx-license-ids
+1129 info preinstall spdx-license-ids@3.0.12
+1130 info linkStuff spdx-license-ids@3.0.12
+1131 silly linkStuff spdx-license-ids@3.0.12 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1132 verbose linkBins spdx-license-ids@3.0.12
+1133 verbose linkMans spdx-license-ids@3.0.12
+1134 verbose rebuildBundles spdx-license-ids@3.0.12
+1135 info install spdx-license-ids@3.0.12
+1136 info postinstall spdx-license-ids@3.0.12
+1137 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.padend
+1138 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.padend
+1139 info preinstall string.prototype.padend@3.1.4
+1140 info linkStuff string.prototype.padend@3.1.4
+1141 silly linkStuff string.prototype.padend@3.1.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1142 verbose linkBins string.prototype.padend@3.1.4
+1143 verbose linkMans string.prototype.padend@3.1.4
+1144 verbose rebuildBundles string.prototype.padend@3.1.4
+1145 info install string.prototype.padend@3.1.4
+1146 info postinstall string.prototype.padend@3.1.4
+1147 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimend
+1148 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimend
+1149 info preinstall string.prototype.trimend@1.0.6
+1150 info linkStuff string.prototype.trimend@1.0.6
+1151 silly linkStuff string.prototype.trimend@1.0.6 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1152 verbose linkBins string.prototype.trimend@1.0.6
+1153 verbose linkMans string.prototype.trimend@1.0.6
+1154 verbose rebuildBundles string.prototype.trimend@1.0.6
+1155 info install string.prototype.trimend@1.0.6
+1156 info postinstall string.prototype.trimend@1.0.6
+1157 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimstart
+1158 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\string.prototype.trimstart
+1159 info preinstall string.prototype.trimstart@1.0.6
+1160 info linkStuff string.prototype.trimstart@1.0.6
+1161 silly linkStuff string.prototype.trimstart@1.0.6 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1162 verbose linkBins string.prototype.trimstart@1.0.6
+1163 verbose linkMans string.prototype.trimstart@1.0.6
+1164 verbose rebuildBundles string.prototype.trimstart@1.0.6
+1165 info install string.prototype.trimstart@1.0.6
+1166 info postinstall string.prototype.trimstart@1.0.6
+1167 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\strip-bom
+1168 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\strip-bom
+1169 info preinstall strip-bom@3.0.0
+1170 info linkStuff strip-bom@3.0.0
+1171 silly linkStuff strip-bom@3.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1172 verbose linkBins strip-bom@3.0.0
+1173 verbose linkMans strip-bom@3.0.0
+1174 verbose rebuildBundles strip-bom@3.0.0
+1175 info install strip-bom@3.0.0
+1176 info postinstall strip-bom@3.0.0
+1177 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-color
+1178 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-color
+1179 info preinstall supports-color@5.5.0
+1180 info linkStuff supports-color@5.5.0
+1181 silly linkStuff supports-color@5.5.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1182 verbose linkBins supports-color@5.5.0
+1183 verbose linkMans supports-color@5.5.0
+1184 verbose rebuildBundles supports-color@5.5.0
+1185 info install supports-color@5.5.0
+1186 info postinstall supports-color@5.5.0
+1187 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-preserve-symlinks-flag
+1188 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\supports-preserve-symlinks-flag
+1189 info preinstall supports-preserve-symlinks-flag@1.0.0
+1190 info linkStuff supports-preserve-symlinks-flag@1.0.0
+1191 silly linkStuff supports-preserve-symlinks-flag@1.0.0 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1192 verbose linkBins supports-preserve-symlinks-flag@1.0.0
+1193 verbose linkMans supports-preserve-symlinks-flag@1.0.0
+1194 verbose rebuildBundles supports-preserve-symlinks-flag@1.0.0
+1195 info install supports-preserve-symlinks-flag@1.0.0
+1196 info postinstall supports-preserve-symlinks-flag@1.0.0
+1197 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\typed-array-length
+1198 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\typed-array-length
+1199 info preinstall typed-array-length@1.0.4
+1200 info linkStuff typed-array-length@1.0.4
+1201 silly linkStuff typed-array-length@1.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1202 verbose linkBins typed-array-length@1.0.4
+1203 verbose linkMans typed-array-length@1.0.4
+1204 verbose rebuildBundles typed-array-length@1.0.4
+1205 info install typed-array-length@1.0.4
+1206 info postinstall typed-array-length@1.0.4
+1207 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\unbox-primitive
+1208 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\unbox-primitive
+1209 info preinstall unbox-primitive@1.0.2
+1210 info linkStuff unbox-primitive@1.0.2
+1211 silly linkStuff unbox-primitive@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1212 verbose linkBins unbox-primitive@1.0.2
+1213 verbose linkMans unbox-primitive@1.0.2
+1214 verbose rebuildBundles unbox-primitive@1.0.2
+1215 info install unbox-primitive@1.0.2
+1216 info postinstall unbox-primitive@1.0.2
+1217 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\validate-npm-package-license
+1218 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\validate-npm-package-license
+1219 info preinstall validate-npm-package-license@3.0.4
+1220 info linkStuff validate-npm-package-license@3.0.4
+1221 silly linkStuff validate-npm-package-license@3.0.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1222 verbose linkBins validate-npm-package-license@3.0.4
+1223 verbose linkMans validate-npm-package-license@3.0.4
+1224 verbose rebuildBundles validate-npm-package-license@3.0.4
+1225 info install validate-npm-package-license@3.0.4
+1226 info postinstall validate-npm-package-license@3.0.4
+1227 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which
+1228 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which
+1229 info preinstall which@1.0.9
+1230 info linkStuff which@1.0.9
+1231 silly linkStuff which@1.0.9 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1232 verbose linkBins which@1.0.9
+1233 verbose link bins [
+1233 verbose link bins   { which: './bin/which' },
+1233 verbose link bins   'C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\node_modules\\.bin',
+1233 verbose link bins   false
+1233 verbose link bins ]
+1234 verbose linkMans which@1.0.9
+1235 verbose rebuildBundles which@1.0.9
+1236 info install which@1.0.9
+1237 info postinstall which@1.0.9
+1238 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-boxed-primitive
+1239 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-boxed-primitive
+1240 info preinstall which-boxed-primitive@1.0.2
+1241 info linkStuff which-boxed-primitive@1.0.2
+1242 silly linkStuff which-boxed-primitive@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1243 verbose linkBins which-boxed-primitive@1.0.2
+1244 verbose linkMans which-boxed-primitive@1.0.2
+1245 verbose rebuildBundles which-boxed-primitive@1.0.2
+1246 info install which-boxed-primitive@1.0.2
+1247 info postinstall which-boxed-primitive@1.0.2
+1248 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-typed-array
+1249 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\which-typed-array
+1250 info preinstall which-typed-array@1.1.9
+1251 info linkStuff which-typed-array@1.1.9
+1252 silly linkStuff which-typed-array@1.1.9 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1253 verbose linkBins which-typed-array@1.1.9
+1254 verbose linkMans which-typed-array@1.1.9
+1255 verbose rebuildBundles which-typed-array@1.1.9
+1256 info install which-typed-array@1.1.9
+1257 info postinstall which-typed-array@1.1.9
+1258 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\winreg
+1259 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\winreg
+1260 info preinstall winreg@1.2.4
+1261 info linkStuff winreg@1.2.4
+1262 silly linkStuff winreg@1.2.4 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1263 verbose linkBins winreg@1.2.4
+1264 verbose linkMans winreg@1.2.4
+1265 verbose rebuildBundles winreg@1.2.4
+1266 info install winreg@1.2.4
+1267 info postinstall winreg@1.2.4
+1268 verbose rebuild bundle C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\wrappy
+1269 info build C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules\wrappy
+1270 info preinstall wrappy@1.0.2
+1271 info linkStuff wrappy@1.0.2
+1272 silly linkStuff wrappy@1.0.2 has C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame\node_modules as its parent node_modules
+1273 verbose linkBins wrappy@1.0.2
+1274 verbose linkMans wrappy@1.0.2
+1275 verbose rebuildBundles wrappy@1.0.2
+1276 info install wrappy@1.0.2
+1277 info postinstall wrappy@1.0.2
+1278 info install yatzygame@1.0.0
+1279 info postinstall yatzygame@1.0.0
+1280 verbose unsafe-perm in lifecycle true
+1281 info yatzygame@1.0.0 Failed to exec postinstall script
+1282 verbose stack Error: yatzygame@1.0.0 postinstall: `ng build --aot --prod --output-path=../resources/static/`
+1282 verbose stack Exit status 1
+1282 verbose stack     at EventEmitter.<anonymous> (C:\Users\prebe\node_modules\npm\lib\utils\lifecycle.js:217:16)
+1282 verbose stack     at EventEmitter.emit (node:events:520:28)
+1282 verbose stack     at ChildProcess.<anonymous> (C:\Users\prebe\node_modules\npm\lib\utils\spawn.js:24:14)
+1282 verbose stack     at ChildProcess.emit (node:events:520:28)
+1282 verbose stack     at maybeClose (node:internal/child_process:1092:16)
+1282 verbose stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)
+1283 verbose pkgid yatzygame@1.0.0
+1284 verbose cwd C:\Users\prebe\OneDrive\HVL\DAT109\Gruppeprosjekt\YatzyGame
+1285 error Windows_NT 10.0.22621
+1286 error argv "C:\\Users\\prebe\\OneDrive\\HVL\\DAT109\\Gruppeprosjekt\\YatzyGame\\YatzyGame\\target\\node\\node.exe" "C:\\Users\\prebe\\node_modules\\npm\\bin\\npm-cli.js" "install"
+1287 error node v16.14.0
+1288 error npm  v2.15.12
+1289 error code ELIFECYCLE
+1290 error yatzygame@1.0.0 postinstall: `ng build --aot --prod --output-path=../resources/static/`
+1290 error Exit status 1
+1291 error Failed at the yatzygame@1.0.0 postinstall script 'ng build --aot --prod --output-path=../resources/static/'.
+1291 error This is most likely a problem with the yatzygame package,
+1291 error not with npm itself.
+1291 error Tell the author that this fails on your system:
+1291 error     ng build --aot --prod --output-path=../resources/static/
+1291 error You can get information on how to open an issue for this project with:
+1291 error     npm bugs yatzygame
+1291 error Or if that isn't available, you can get their info via:
+1291 error
+1291 error     npm owner ls yatzygame
+1291 error There is likely additional logging output above.
+1292 verbose exit [ 1, true ]
